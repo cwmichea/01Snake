@@ -1,0 +1,2 @@
+D:\Users\Conejo\source\repos\01Snake\Debug\01Snake.exe
+D:\Users\Conejo\source\repos\01Snake\Debug\01Snake.pdb
